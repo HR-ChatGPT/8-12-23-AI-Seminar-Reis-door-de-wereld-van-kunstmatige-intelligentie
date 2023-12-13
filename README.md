@@ -27,13 +27,12 @@ Stap in de wereld van geavanceerde kunstmatige intelligentie met onze boeiende w
 Maar dat is nog niet alles. We gaan ook een spannende opdracht aanbieden aan alle deelnemers. Deze hands-on opdracht gaat jou de kans geven om zelf te experimenteren en te ontdekken wat deze AI-systemen allemaal kunnen doen.
 Of je nu een AI-enthousiasteling bent, een nieuwsgierige beginner, of gewoon iemand die wil begrijpen hoe deze technologieën ons dagelijks leven beïnvloeden, deze workshop is geschikt voor iedereen. Kom en ontdek de kracht van kunstmatige intelligentie met ons!
  
-## F:[De Werking van GPT-4: Een Diepgaande analyse van OpenAI's Multimodale Taalmodel](./PRESENTATIES/Team%20F%20-%20GPT4.pdf)
+## F: [De Werking van GPT-4: Een Diepgaande analyse van OpenAI's Multimodale Taalmodel](./PRESENTATIES/Team%20F%20-%20GPT4.pdf)
 Door studenten: Tim, Sijmen, Max
 Ben je benieuwd naar de nieuwste innovaties in de wereld van kunstmatige intelligentie? Wil je begrijpen hoe ChatGPT 4 zich onderscheidt van zijn voorganger, ChatGPT 3.5? Dan is deze workshop precies wat je zoekt!
 Tijdens deze boeiende sessie bieden we een gedetailleerde uitleg van ChatGPT 4, met een focus op zijn opmerkelijke verbeteringen ten opzichte van de vorige versie. Je zult ontdekken hoe dit krachtige AI-model nog slimmer, creatiever en beter is in het begrijpen en genereren van menselijke tekst.
  
-## G: Ontdek & vind jouw perfecte online cursus over generatieve AI | Lokaal: KZ.D3.240
-Door studenten: Ismaïl, Tim, Denise, Furkan
+## G: [Ontdek & vind jouw perfecte online cursus over generatieve AI](./PRESENTATIES/Team G - Online GenAI curriculum.pdf)
 Ontdek Generative AI-cursussen Online en De Ethische Overwegingen. In deze sessie gaan we in gesprek over diverse Generative AI-cursussen die online beschikbaar zijn. Bovendien bespreken we de belangrijke ethische overwegingen die een rol spelen bij het gebruik van Generative AI. Of je nu geïnteresseerd bent in de mogelijkheden van Generative AI of je afvraagt hoe deze technologieën onze samenleving beïnvloeden, deze workshop biedt inzicht in deze boeiende onderwerpen. Sluit je bij ons aan en ontdek meer over Generative AI en de kwesties die daarbij horen.
  
 ## H: Boost je Marketing met AnyWord | Lokaal: KZ.D0.200
