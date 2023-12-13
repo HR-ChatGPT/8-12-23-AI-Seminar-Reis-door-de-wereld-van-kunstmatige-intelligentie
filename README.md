@@ -36,7 +36,7 @@ Tijdens deze boeiende sessie bieden we een gedetailleerde uitleg van ChatGPT 4, 
 
 Ontdek Generative AI-cursussen Online en De Ethische Overwegingen. In deze sessie gaan we in gesprek over diverse Generative AI-cursussen die online beschikbaar zijn. Bovendien bespreken we de belangrijke ethische overwegingen die een rol spelen bij het gebruik van Generative AI. Of je nu geïnteresseerd bent in de mogelijkheden van Generative AI of je afvraagt hoe deze technologieën onze samenleving beïnvloeden, deze workshop biedt inzicht in deze boeiende onderwerpen. Sluit je bij ons aan en ontdek meer over Generative AI en de kwesties die daarbij horen.
  
-## H: [Boost je Marketing met AnyWord](./PRESENTATIES/Team%2520H%2520-%2520Anyword.pdf)
+## H: [Boost je Marketing met AnyWord](./PRESENTATIES/Team%20H%20-%20Anyword.pdf)
 Door studenten: Amir, David, Jeffrey, Mouhsine
 In de hedendaagse technologische wereld hebben we toegang tot een tal aan geavanceerde AI-tools die in staat zijn om een breed scala aan verschillende soorten teksten te genereren. Deze teksten kunnen gebruikt worden van bijvoorbeeld Instagram, Facebook of LinkedIn posts.
  
