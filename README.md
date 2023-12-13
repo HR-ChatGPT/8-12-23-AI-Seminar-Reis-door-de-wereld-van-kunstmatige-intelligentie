@@ -3,62 +3,62 @@
 
 # Workshops
  
-## A: [Beats by AIVA: Verrijk Jouw Creatieve Proces met AI-Gegenereerde Muziek | Lokaal: KZ.D2.210](./PRESENTATIES/Team%20A%20-%20Beats%20by%20AIVA.pdf)
+## A: [Beats by AIVA: Verrijk Jouw Creatieve Proces met AI-Gegenereerde Muziek](./PRESENTATIES/Team%20A%20-%20Beats%20by%20AIVA.pdf)
 Door studenten: Romy, Ziya, Peter, Nigel, Teun
 Met AIVA kun je muziek creëren in diverse stijlen en deze later naar jouw voorkeur aanpassen. In de gratis versie behoudt AIVA het auteursrecht op alle gegenereerde muziek, en is het niet toegestaan om geld te verdienen met de muziek, zoals bijvoorbeeld op een YouTube-kanaal. Bovendien kun je maar drie nummers per maand downloaden. Gelukkig kun je jouw composities onbeperkt online beluisteren. Als je AIVA voornamelijk gebruikt als muzikale metgezel om mee te jammen, zul je geen last hebben van deze beperkingen.
 
 
 
-## B: [Stable Audio - The future of sound | Lokaal: KZ.D3.230](./PRESENTATIES/Team%20B%20-%20Stable%20Audio%20-%20The%20future%20of%20sound.pdf)
+## B: [Stable Audio - The future of sound](./PRESENTATIES/Team%20B%20-%20Stable%20Audio%20-%20The%20future%20of%20sound.pdf)
 Door studenten: Victor, Ruben, Thomas, Kai
 Deze workshop omvat een uitleg over wat de applicatie is en hoe deze kan worden toegepast. Ook over welke toekomstvisie erachter schuilt en hoe deze zich positioneert in de markt, de ethische aspecten die ermee verbonden zijn, en de interactie met het publiek.
  
-## C: Explore The Visual World by Gencraft | Lokaal: KZ.C0.100
+## C: [Explore The Visual World by Gencraft](./PRESENTATIES/Team%20C%20-%20Explore%20The%20Visual%20World%20by%20Gencraft.pdf)
 Door studenten: Tom, Froriane, Sany
 Deze workshop gaat over beeldgenererende AI aan de hand van een tekstprompt. Hierin worden de verschillen ten opzichte van andere AI-modellen in hetzelfde vakgebied besproken, de voor- en nadelen van het model, een doe-het-zelf-opdracht, en de ethische overwegingen.
  
-## D: Photoshop AI Essentials | Lokaal: KZ.C0.130
+## D: [Photoshop AI Essentials](./PRESENTATIES/Team%20D%20-%20Photoshop%20AI%20Essentials.pdf)
 Door studenten: Tristan, Jimmy, Bryan, Matthijs
 Photoshop ai workshop beschrijving: In Photoshop AI Essentials behandelen we essentiële onderdelen van de tool en verkennen we de ethiek en privacyregels rondom het gebruik ervan. We nemen je mee in de wereld van Photoshop AI, waarin we niet alleen de basisbeginselen uitleggen, maar ook dieper ingaan op de ethische overwegingen en de relevante wetgeving. Bovendien laten we zien hoe je deze krachtige tool kunt toepassen in verschillende werkzaamheden, waardoor je optimaal gebruik kunt maken van de mogelijkheden die het biedt.
  
-## E: Bard AI vs. ChatGPT: Een Duel in Taalverfijning! | Lokaal: KZ.D2.165
+## E: [Bard AI vs. ChatGPT: Een Duel in Taalverfijning!](./PRESENTATIES/Team%20E%20-%20Bard%20AI%20vs.%20ChatGPT%20-%20Een%20Duel%20in%20Taalverfijning.pdf)
 Door studenten: Ihem, Leone. Selma, Jarno, Harold
 Stap in de wereld van geavanceerde kunstmatige intelligentie met onze boeiende workshop. Tijdens deze sessie delen we eerst uitgebreide informatie over Bard, een opwindende AI-technologie. Daarna nemen we de tijd om Bard te vergelijken met ChatGPT, zodat je een dieper inzicht krijgt in de unieke capaciteiten en toepassingen van beide systemen.
 Maar dat is nog niet alles. We gaan ook een spannende opdracht aanbieden aan alle deelnemers. Deze hands-on opdracht gaat jou de kans geven om zelf te experimenteren en te ontdekken wat deze AI-systemen allemaal kunnen doen.
 Of je nu een AI-enthousiasteling bent, een nieuwsgierige beginner, of gewoon iemand die wil begrijpen hoe deze technologieën ons dagelijks leven beïnvloeden, deze workshop is geschikt voor iedereen. Kom en ontdek de kracht van kunstmatige intelligentie met ons!
  
-## F: De Werking van GPT-4: Een Diepgaande analyse van OpenAI's Multimodale Taalmodel | Lokaal: KZ.C2.150
+## F: [De Werking van GPT-4: Een Diepgaande analyse van OpenAI's Multimodale Taalmodel](./PRESENTATIES/Team%20F%20-%20De%20Werking%20van%20GPT-4%20-%20Een%20Diepgaande%20analyse%20van%20OpenAI's%20Multimodale%20Taalmodel.pdf)
 Door studenten: Tim, Sijmen, Max
 Ben je benieuwd naar de nieuwste innovaties in de wereld van kunstmatige intelligentie? Wil je begrijpen hoe ChatGPT 4 zich onderscheidt van zijn voorganger, ChatGPT 3.5? Dan is deze workshop precies wat je zoekt!
 Tijdens deze boeiende sessie bieden we een gedetailleerde uitleg van ChatGPT 4, met een focus op zijn opmerkelijke verbeteringen ten opzichte van de vorige versie. Je zult ontdekken hoe dit krachtige AI-model nog slimmer, creatiever en beter is in het begrijpen en genereren van menselijke tekst.
  
-## G: Ontdek & vind jouw perfecte online cursus over generatieve AI | Lokaal: KZ.D3.240
+## G: [Ontdek & vind jouw perfecte online cursus over generatieve AI](./PRESENTATIES/Team%20G%20-%20Ontdek%20&%20vind%20jouw%20perfecte%20online%20cursus%20over%20generatieve%20AI.pdf)
 Door studenten: Ismaïl, Tim, Denise, Furkan
 Ontdek Generative AI-cursussen Online en De Ethische Overwegingen. In deze sessie gaan we in gesprek over diverse Generative AI-cursussen die online beschikbaar zijn. Bovendien bespreken we de belangrijke ethische overwegingen die een rol spelen bij het gebruik van Generative AI. Of je nu geïnteresseerd bent in de mogelijkheden van Generative AI of je afvraagt hoe deze technologieën onze samenleving beïnvloeden, deze workshop biedt inzicht in deze boeiende onderwerpen. Sluit je bij ons aan en ontdek meer over Generative AI en de kwesties die daarbij horen.
  
-## H: Boost je Marketing met AnyWord | Lokaal: KZ.D0.200
+## H: [Boost je Marketing met AnyWord](./PRESENTATIES/Team%20H%20-%20Boost%20je%20Marketing%20met%20AnyWord.pdf)
 Door studenten: Amir, David, Jeffrey, Mouhsine
 In de hedendaagse technologische wereld hebben we toegang tot een tal aan geavanceerde AI-tools die in staat zijn om een breed scala aan verschillende soorten teksten te genereren. Deze teksten kunnen gebruikt worden van bijvoorbeeld Instagram, Facebook of LinkedIn posts.
  
-## I: Ga de strijd aan met generatieve plagiaat! | Lokaal: KZ.C3.290
+## I: [Ga de strijd aan met generatieve plagiaat!] (./PRESENTATIES/Team%20I%20-%20Ga%20de%20strijd%20aan%20met%20generatieve%20plagiaat!.pdf)
 Door studenten: Jasmijn, Kubilay, Ian, Isabella, Jason
 Heb je ooit willen begrijpen hoe je academische integriteit kunt verbeteren en behouden? In onze boeiende workshop "Turnitin" ontdek je een krachtige tool die speciaal is ontworpen om juist dat te doen.
 Tijdens deze sessie krijg je niet alleen een diepgaande uitleg over Turnitin, maar leer je ook hoe je deze tool effectief kunt inzetten om academische integriteit te waarborgen. We bespreken hoe Turniti werkt en waarom het een essentieel instrument is voor studenten, docenten en onderwijsinstellingen.
  
-## J: De kracht van digital humans en hun impact op jouw organisatie | Lokaal: KZ.D5.240
+## J: [De kracht van digital humans en hun impact op jouw organisatie](./PRESENTATIES/Team%20J%20-%20De%20kracht%20van%20digital%20humans%20en%20hun%20impact%20op%20jouw%20organisatie.pdf)
 Door studenten: Zizi, Fatih, Jasmijn, Daan, Mats
 Digital humans zijn door AI-gegenereerde virtuele entiteiten die menselijk eigenschappen nabootsen, en daarmee goed in te zetten in interactieve communicatie.
 Ontdek de toekomst van interactie in deze workshop over de kracht van digital humans en hun potentieel om organisaties te transformeren. Tijdens deze sessie communiceer jij zelf met een aantal AI-gesprekspartners en ontrafelen we de geheimen van hun impact. Samen verkennen we wat in deze communicatie wel en niet werkt en leggen we de kansen bloot die digital humans bieden voor organisaties.
  
-## K: Elevenlabs: Hoe jij AI stemmen kunt gebruiken! | Lokaal: KZ.C0.100
+## K: [Elevenlabs: Hoe jij AI stemmen kunt gebruiken!](./PRESENTATIES/Team%20K%20-%20Elevenlabs%20-%20Hoe%20jij%20AI%20stemmen%20kunt%20gebruiken!.pdf)
 Door studenten: Romy, Cas, Luuk, Adhurim
 Elevenlabs is een veelzijdige applicatie die de kracht van text-to-speech en voice cloning combineert. Met deze innovatieve tool kun je tekst omzetten in gesproken woorden en zelfs je eigen stem klonen. Of je nu op zoek bent naar een handige manier om teksten om te zetten in gesproken taal of een unieke stemreplicatie wilt creëren, Elevenlabs staat voor je klaar. Verken de mogelijkheden en ontdek hoe deze applicatie je kan helpen bij verschillende projecten en toepassingen.
  
-## L: DALL·E 2: De creatie van afbeeldingen | Lokaal: KZ.D0.200
+## L: [DALL·E 2: De creatie van afbeeldingen](./PRESENTATIES/Team%20L%20-%20DALL·E%202%20-%20De%20creatie%20van%20afbeeldingen.pdf)
 Door studenten: Gijs, Ronan, Steven, Tom
 Laten we samen de fascinerende wereld van DALL·E2 verkennen! In deze workshop gaan we dieper in op deze innovatieve technologieën, leggen we uit hoe ze werken en demonstreren we enkele van hun verbazingwekkende mogelijkheden. Of je nu een kunstliefhebber bent, een tech-enthousiasteling of gewoon nieuwsgierig naar de grensverleggende toepassingen van AI, deze sessie biedt je een boeiende reis in de wereld van beeldgeneratie en digitale creatie. Kom en laat je inspireren door de mogelijkheden van DALL·E2 en de nieuwe ontwikkelingen van DALL·E3.
  
-## M: Maak van je creatieve verbeelding, werkelijkheid met Midjourney! | Lokaal: KZ.D0.220
+## M: [Maak van je creatieve verbeelding, werkelijkheid met Midjourney!](./PRESENTATIES/Team%20M%20-%20Maak%20van%20je%20creatieve%20verbeelding,%20werkelijkheid%20met%20Midjourney!.pdf)
 Door studenten: Florianne, Robin, Artiola, Furkan
 Midjourney is een innovatieve tool die wordt gestuurd door kunstmatige intelligentie. Op basis van een korte tekst die je als gebruiker indient, genereert de tool een beeld dat ver buiten je eigen verbeeldingskracht reikt.
  
