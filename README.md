@@ -9,7 +9,7 @@ Met AIVA kun je muziek creëren in diverse stijlen en deze later naar jouw voork
 
 
 
-## B: Stable Audio - The future of sound | Lokaal: KZ.D3.230
+## B: [Stable Audio - The future of sound | Lokaal: KZ.D3.230](./PRESENTATIES/Team%20B%20-%20Stable%20Audio%20-%20The%20future%20of%20sound.pdf)
 Door studenten: Victor, Ruben, Thomas, Kai
 Deze workshop omvat een uitleg over wat de applicatie is en hoe deze kan worden toegepast. Ook over welke toekomstvisie erachter schuilt en hoe deze zich positioneert in de markt, de ethische aspecten die ermee verbonden zijn, en de interactie met het publiek.
  
