@@ -39,7 +39,7 @@ Ontdek Generative AI-cursussen Online en De Ethische Overwegingen. In deze sessi
 Door studenten: Amir, David, Jeffrey, Mouhsine
 In de hedendaagse technologische wereld hebben we toegang tot een tal aan geavanceerde AI-tools die in staat zijn om een breed scala aan verschillende soorten teksten te genereren. Deze teksten kunnen gebruikt worden van bijvoorbeeld Instagram, Facebook of LinkedIn posts.
  
-## I: Ga de strijd aan met generatieve plagiaat! | Lokaal: KZ.C3.290
+## I: [Ga de strijd aan met generatieve plagiaat!](./PRESENTATIES/Team%2520I%2520-%2520Plagiaat%2520met%2520Turnitin.pdf)
 Door studenten: Jasmijn, Kubilay, Ian, Isabella, Jason
 Heb je ooit willen begrijpen hoe je academische integriteit kunt verbeteren en behouden? In onze boeiende workshop "Turnitin" ontdek je een krachtige tool die speciaal is ontworpen om juist dat te doen.
 Tijdens deze sessie krijg je niet alleen een diepgaande uitleg over Turnitin, maar leer je ook hoe je deze tool effectief kunt inzetten om academische integriteit te waarborgen. We bespreken hoe Turniti werkt en waarom het een essentieel instrument is voor studenten, docenten en onderwijsinstellingen.
