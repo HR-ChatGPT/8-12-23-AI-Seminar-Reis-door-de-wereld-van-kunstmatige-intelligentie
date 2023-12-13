@@ -27,7 +27,7 @@ Stap in de wereld van geavanceerde kunstmatige intelligentie met onze boeiende w
 Maar dat is nog niet alles. We gaan ook een spannende opdracht aanbieden aan alle deelnemers. Deze hands-on opdracht gaat jou de kans geven om zelf te experimenteren en te ontdekken wat deze AI-systemen allemaal kunnen doen.
 Of je nu een AI-enthousiasteling bent, een nieuwsgierige beginner, of gewoon iemand die wil begrijpen hoe deze technologieën ons dagelijks leven beïnvloeden, deze workshop is geschikt voor iedereen. Kom en ontdek de kracht van kunstmatige intelligentie met ons!
  
-## F: De Werking van GPT-4: Een Diepgaande analyse van OpenAI's Multimodale Taalmodel | Lokaal: KZ.C2.150
+## F:[De Werking van GPT-4: Een Diepgaande analyse van OpenAI's Multimodale Taalmodel](./PRESENTATIES/Team%20F%20-%20GPT-4.pdf)
 Door studenten: Tim, Sijmen, Max
 Ben je benieuwd naar de nieuwste innovaties in de wereld van kunstmatige intelligentie? Wil je begrijpen hoe ChatGPT 4 zich onderscheidt van zijn voorganger, ChatGPT 3.5? Dan is deze workshop precies wat je zoekt!
 Tijdens deze boeiende sessie bieden we een gedetailleerde uitleg van ChatGPT 4, met een focus op zijn opmerkelijke verbeteringen ten opzichte van de vorige versie. Je zult ontdekken hoe dit krachtige AI-model nog slimmer, creatiever en beter is in het begrijpen en genereren van menselijke tekst.
