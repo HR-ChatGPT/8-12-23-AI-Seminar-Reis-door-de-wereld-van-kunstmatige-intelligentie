@@ -32,10 +32,10 @@ Door studenten: Tim, Sijmen, Max
 Ben je benieuwd naar de nieuwste innovaties in de wereld van kunstmatige intelligentie? Wil je begrijpen hoe ChatGPT 4 zich onderscheidt van zijn voorganger, ChatGPT 3.5? Dan is deze workshop precies wat je zoekt!
 Tijdens deze boeiende sessie bieden we een gedetailleerde uitleg van ChatGPT 4, met een focus op zijn opmerkelijke verbeteringen ten opzichte van de vorige versie. Je zult ontdekken hoe dit krachtige AI-model nog slimmer, creatiever en beter is in het begrijpen en genereren van menselijke tekst.
  
-## G: [Ontdek & vind jouw perfecte online cursus over generatieve AI](./PRESENTATIES/Team G - Online GenAI curriculum.pdf)
+## G: [Ontdek & vind jouw perfecte online cursus over generatieve AI](./PRESENTATIES/Team%20G%20-%20Online%20GenAI%20curriculum.pdf)
 Ontdek Generative AI-cursussen Online en De Ethische Overwegingen. In deze sessie gaan we in gesprek over diverse Generative AI-cursussen die online beschikbaar zijn. Bovendien bespreken we de belangrijke ethische overwegingen die een rol spelen bij het gebruik van Generative AI. Of je nu geïnteresseerd bent in de mogelijkheden van Generative AI of je afvraagt hoe deze technologieën onze samenleving beïnvloeden, deze workshop biedt inzicht in deze boeiende onderwerpen. Sluit je bij ons aan en ontdek meer over Generative AI en de kwesties die daarbij horen.
  
-## H: Boost je Marketing met AnyWord | Lokaal: KZ.D0.200
+## H: [Boost je Marketing met AnyWord](./PRESENTATIES/Team%2520H%2520-%2520Anyword.pdf)
 Door studenten: Amir, David, Jeffrey, Mouhsine
 In de hedendaagse technologische wereld hebben we toegang tot een tal aan geavanceerde AI-tools die in staat zijn om een breed scala aan verschillende soorten teksten te genereren. Deze teksten kunnen gebruikt worden van bijvoorbeeld Instagram, Facebook of LinkedIn posts.
  
