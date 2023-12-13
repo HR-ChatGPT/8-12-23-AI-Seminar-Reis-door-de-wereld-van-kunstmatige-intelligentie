@@ -50,7 +50,7 @@ Door studenten: Zizi, Fatih, Jasmijn, Daan, Mats
 Digital humans zijn door AI-gegenereerde virtuele entiteiten die menselijk eigenschappen nabootsen, en daarmee goed in te zetten in interactieve communicatie.
 Ontdek de toekomst van interactie in deze workshop over de kracht van digital humans en hun potentieel om organisaties te transformeren. Tijdens deze sessie communiceer jij zelf met een aantal AI-gesprekspartners en ontrafelen we de geheimen van hun impact. Samen verkennen we wat in deze communicatie wel en niet werkt en leggen we de kansen bloot die digital humans bieden voor organisaties.
  
-## K: Elevenlabs: Hoe jij AI stemmen kunt gebruiken! | Lokaal: KZ.C0.100
+## K: [Elevenlabs: Hoe jij AI stemmen kunt gebruiken!](./PRESENTATIES/Team%20K%20-%20Elevenlabs.pdf)
 Door studenten: Romy, Cas, Luuk, Adhurim
 Elevenlabs is een veelzijdige applicatie die de kracht van text-to-speech en voice cloning combineert. Met deze innovatieve tool kun je tekst omzetten in gesproken woorden en zelfs je eigen stem klonen. Of je nu op zoek bent naar een handige manier om teksten om te zetten in gesproken taal of een unieke stemreplicatie wilt creëren, Elevenlabs staat voor je klaar. Verken de mogelijkheden en ontdek hoe deze applicatie je kan helpen bij verschillende projecten en toepassingen.
  
